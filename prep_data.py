@@ -1,7 +1,8 @@
 #
-# originally from jim's repo
+# originally from jimfleming repo
 # implements adversarial validation technique
-#
+# http://fastml.com/adversarial-validation-part-two/
+# 
 from __future__ import absolute_import
 from __future__ import print_function
 from __future__ import division
